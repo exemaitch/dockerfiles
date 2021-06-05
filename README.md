@@ -1,3 +1,3 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c017cea50ecc4c77aa052230fb7373ea)](https://www.codacy.com/gh/exemaitch/dockerfiles/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=exemaitch/dockerfiles&amp;utm_campaign=Badge_Grade)
-
 # dockerfiles
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/41d0bfacca36403abf9b9d91806994cc)](https://app.codacy.com/gh/exemaitch/dockerfiles?utm_source=github.com&utm_medium=referral&utm_content=exemaitch/dockerfiles&utm_campaign=Badge_Grade_Settings)
